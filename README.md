@@ -189,7 +189,7 @@
     ? Presione enter para continuar
 
 <h1></h1>
-<h2 align="center">Salir Tareas</h2>
+<h2 align="center">Salir De App</h2>
 
     ==========================
       Seleccione una opción
