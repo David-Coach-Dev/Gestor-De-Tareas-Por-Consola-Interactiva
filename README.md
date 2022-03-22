@@ -3,7 +3,7 @@
   Esta es una aplicación de gestor de tareas realizada en Node Js que se ejecuta por consola.
 </p>
 <h1></h1>
-<h2 align="center">Librerias</h2>
+<h2 align="center">Herramientas</h2>
 <br>
 <p align="center">
   <a href="https://nodejs.org/es/" target="_blank" rel="">
@@ -35,11 +35,11 @@
 
 <h1></h1>
 <p align="center">
-  <h2 align="center">Getor De Tareas App Video</h2>
+  <h2 align="center">Gestor De Tareas App Video</h2>
     <img src="https://i.imgur.com/QPjTK37.gif" alt="uuid" width="100%" height="100%"/>
 </p>
 <h1></h1>
-<h2 align="center">Menu De Tareas</h2>
+<h2 align="center">Menu De App De Tareas</h2>
 
     ==========================
       Seleccione una opción
@@ -84,7 +84,7 @@
     ? Presione enter para continuar
 
 <h1></h1>
-<h2 align="center">Listar Tarea Completas</h2>
+<h2 align="center">Listar Tareas Completas</h2>
 
     ==========================
       Seleccione una opción
@@ -97,7 +97,7 @@
     ? Presione enter para continuar
 
 <h1></h1>
-<h2 align="center">Listar Tarea Pendientes</h2>
+<h2 align="center">Listar Tareas Pendientes</h2>
 
     ==========================
       Seleccione una opción
@@ -140,7 +140,7 @@
     ? Presione enter para continuar
 
 <h1></h1>
-<h2 align="center">Borrar Tareas</h2>
+<h2 align="center">Borrar Tarea</h2>
 
     ==========================
       Seleccione una opción
@@ -189,7 +189,7 @@
     ? Presione enter para continuar
 
 <h1></h1>
-<h2 align="center">Salir De App</h2>
+<h2 align="center">Salir De App De Tareas</h2>
 
     ==========================
       Seleccione una opción
