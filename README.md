@@ -6,26 +6,21 @@
 <h2 align="center">Herramientas</h2>
 <br>
 <p align="center">
-  <a href="https://nodejs.org/es/" target="_blank" rel="">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="50" height="50"/>
-  Node.js</a>
-  <br>
-  <br>
-  <a href="https://www.npmjs.com/package/colors" target="_blank" rel="Color.js">
+  <a href="https://nodejs.org/es/" target="_blank" rel="node.js" >
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node" width="50" height="50"/>
+   - node.js</a>
+  <br><br>
+  <a href="https://www.npmjs.com/package/colors" target="_blank" rel="color" ">
   <img src="https://raw.githubusercontent.com/Marak/colors.js/master/screenshots/colors.png" alt="cplusplus" width="50" height="50"/>
-  Colors.js</a>
-  <br>
-  <br>
-  <a href="https://www.npmjs.com/package/inquirer" target="_blank" rel="inquirer">
+   - colors.js</a>
+  <br><br>
+  <a href="https://www.npmjs.com/package/inquirer" target="_blank" rel="inquirer" ">
   <img src="https://raw.githubusercontent.com/SBoudrias/Inquirer.js/master/assets/inquirer_readme.svg?sanitize=true" alt="Inquirer.js" width="50" height="50"/>
-  Inquirer.js</a>
-  <br>
-  <br>
-  <a href="https://www.npmjs.com/package/uuid" target="_blank" rel="uuid">
-  <img src="https://raw.githubusercontent.com/SBoudrias/Inquirer.js/master/assets/inquirer_readme.svg?sanitize=true" alt="uuid" width="50" height="50"/>
-  uuid.js</a>
-  <br>
-  <br>
+   - inquirer.js</a>
+  <br><br>
+  <a href="https://www.npmjs.com/package/uuid" target="_blank" rel="uuid" ">
+  <img src="https://raw.githubusercontent.com/SBoudrias/Inquirer.js/master/assets/inquirer_readme.svg?sanitize=true" alt="uuid.js" width="50" height="50"/>
+   - uuid.js</a>
 </p>
 <h1></h1>
 <h2 align="center">Ejecutar este comando</h2>
