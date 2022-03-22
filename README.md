@@ -23,8 +23,11 @@
    - uuid.js</a>
 </p>
 <h1></h1>
-<h2 align="center">Ejecutar este comando</h2>
-
+<h2 align="center">Nota</h2>
+  <p align="center"> 
+    Recuerde reconstruir los módulos de node con el comando
+  </p>
+                   
     npm install
 
 <h1></h1>
