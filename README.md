@@ -16,14 +16,14 @@
   Colors.js</a>
   <br>
   <br>
-  <a href="https://www.npmjs.com/package/inquirer" target="_blank" rel="noreferrer">
+  <a href="https://www.npmjs.com/package/inquirer" target="_blank" rel="inquirer">
   <img src="https://raw.githubusercontent.com/SBoudrias/Inquirer.js/master/assets/inquirer_readme.svg?sanitize=true" alt="Inquirer.js" width="50" height="50"/>
   Inquirer.js</a>
   <br>
   <br>
-  <a href="https://www.npmjs.com/package/uuid" target="_blank" rel="noreferrer">
+  <a href="https://www.npmjs.com/package/uuid" target="_blank" rel="uuid">
   <img src="https://raw.githubusercontent.com/SBoudrias/Inquirer.js/master/assets/inquirer_readme.svg?sanitize=true" alt="uuid" width="50" height="50"/>
-  Inquirer.js</a>
+  uuid.js</a>
   <br>
   <br>
 </p>
