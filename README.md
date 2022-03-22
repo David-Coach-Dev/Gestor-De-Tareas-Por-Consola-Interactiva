@@ -1,4 +1,4 @@
-<h1 align="center">Aplicación De Consola Interactiva</h1>
+<h1 align="center">Gestor De Tareas Por Consola Interactiva</h1>
 <p align="center">
   Esta es una aplicación de gestor de tareas realizada en Node Js que se ejecuta por consola.
 </p>
