@@ -15,11 +15,11 @@
    - colors.js</a>
   <br><br>
   <a href="https://www.npmjs.com/package/inquirer" target="_blank" rel="inquirer" ">
-  <img src="https://raw.githubusercontent.com/SBoudrias/Inquirer.js/master/assets/inquirer_readme.svg?sanitize=true" alt="Inquirer.js" width="50" height="50"/>
+  <img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="Inquirer.js" width="50" height="50"/>
    - inquirer.js</a>
   <br><br>
   <a href="https://www.npmjs.com/package/uuid" target="_blank" rel="uuid" ">
-  <img src="https://raw.githubusercontent.com/SBoudrias/Inquirer.js/master/assets/inquirer_readme.svg?sanitize=true" alt="uuid.js" width="50" height="50"/>
+  <img src="https://static.npmjs.com/338e4905a2684ca96e08c7780fc68412.png" alt="uuid.js" width="50" height="50"/>
    - uuid.js</a>
 </p>
 <h1></h1>
