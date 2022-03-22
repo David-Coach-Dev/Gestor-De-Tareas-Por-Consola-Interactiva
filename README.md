@@ -1,6 +1,6 @@
 <h1 align="center">Gestor De Tareas Por Consola Interactiva</h1>
 <p align="center">
-  Esta es una aplicación de gestor de tareas realizada en Node Js que se ejecuta por consola.
+  Esta es una aplicación de gestor de tareas realizada en Node.js que se ejecuta por consola de manera interactiva.
 </p>
 <h1></h1>
 <h2 align="center">Herramientas</h2>
@@ -26,15 +26,14 @@
 <h2 align="center">Ejecutar este comando</h2>
 
     npm install
-    npm node app
 
 <h1></h1>
 <p align="center">
-  <h2 align="center">Gestor De Tareas App Video</h2>
+  <h2 align="center">Gestor De Tareas Video</h2>
     <img src="https://i.imgur.com/QPjTK37.gif" alt="uuid" width="100%" height="100%"/>
 </p>
 <h1></h1>
-<h2 align="center">Menu De App De Tareas</h2>
+<h2 align="center">Menu</h2>
 
     ==========================
       Seleccione una opción
