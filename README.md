@@ -7,18 +7,18 @@
 <br>
 <p align="center">
   <a href="https://nodejs.org/es/" target="_blank" rel="node.js" >
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node" width="50" height="50"/>
+  <img src="https://nodejs.org/static/images/logo.svg" alt="node.js" width="50" height="50"/>
    - node.js</a>
   <br><br>
-  <a href="https://www.npmjs.com/package/colors" target="_blank" rel="color" ">
-  <img src="https://raw.githubusercontent.com/Marak/colors.js/master/screenshots/colors.png" alt="cplusplus" width="50" height="50"/>
+  <a href="https://www.npmjs.com/package/colors" target="_blank" rel="color.js">
+  <img src="https://raw.githubusercontent.com/Marak/colors.js/master/screenshots/colors.png" alt="color.js" width="50" height="50"/>
    - colors.js</a>
   <br><br>
-  <a href="https://www.npmjs.com/package/inquirer" target="_blank" rel="inquirer" ">
-  <img src="https://i.imgur.com/iqEgCV9.png" alt="Inquirer.js" width="50" height="50"/>
+  <a href="https://www.npmjs.com/package/inquirer" target="_blank" rel="inquirer.js">
+  <img src="https://i.imgur.com/iqEgCV9.png" alt="inquirer.js" width="50" height="50"/>
    - inquirer.js</a>
   <br><br>
-  <a href="https://www.npmjs.com/package/uuid" target="_blank" rel="uuid" ">
+  <a href="https://www.npmjs.com/package/uuid" target="_blank" rel="uuid.js">
   <img src="https://i.imgur.com/iqEgCV9.png" alt="uuid.js" width="50" height="50"/>
    - uuid.js</a>
 </p>
